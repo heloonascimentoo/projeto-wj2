@@ -6,7 +6,10 @@
   font-size: 17px; color black; font-kerning: normal;text-align: left;
 }
 
-
+ul{
+  display: flex;
+  flex-direction: center
+}
 
 
 h1{
