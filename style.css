@@ -1,14 +1,19 @@
+body{
+  background-color: white
+
+
+}
 #titulo{
   font-size: 30px; color:purple; font-family: serif; text-align: center;
 }
 
 #texto {
-  font-size: 17px; color black; font-kerning: normal;text-align: left;
+  font-size: 17px; color black; font-kerning: normal;text-align: inherit;
 }
 
-ul{
-  display: flex;
-  flex-direction: center
+ul {
+  top: 200px;
+font-size: 30px;
 }
 
 
@@ -25,3 +30,9 @@ h3{font-size: 25px;color:black; font-family: monospace;
 img{
   font-size: 30px
 }
+
+{
+  section color: purple; font-family: inherit; text-align: justi
+}
+
+.contato{font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;}
